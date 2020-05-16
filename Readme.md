@@ -15,4 +15,4 @@ the x, y, z axis accelerometer values).
 # RNN Val Loss - Preliminary (ha, definitely suggests that I need more data; in order to prevent overfitting)
 ![Validation Loss](https://github.com/kevindean/IMU_Accelerometer_Movement_Prediction/blob/master/ValidationLoss.png)
 
-# will be collecting more data tonight, proceed with training, and update further results.
+# will be collecting more data, proceed with training, and update further results.
