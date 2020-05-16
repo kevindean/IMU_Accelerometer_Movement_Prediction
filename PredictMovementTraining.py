@@ -6,10 +6,10 @@ from tensorflow.keras.optimizers import Adam
 import numpy as np
 import matplotlib.pyplot as plt
 
-X = np.genfromtxt("/home/kdean/imu_data.csv")
+X = np.genfromtxt("./imu_data.csv")
 X = X.reshape(-1, 1, 3)
 
-y = np.genfromtxt("/home/kdean/imu_truth.csv")
+y = np.genfromtxt("./imu_truth.csv")
 y = y.reshape(-1, 1)
 
 inputs = Input(shape=(None, 3))
