@@ -10,4 +10,7 @@ the x, y, z axis accelerometer values).
 ![prediction and truth](https://github.com/kevindean/IMU_Accelerometer_Movement_Prediction/blob/master/AccelermoterMovementPredictionPreliminary.png)
 
 # RNN Accuracy Results - preliminary
-![]()
+![Accuracy](https://github.com/kevindean/IMU_Accelerometer_Movement_Prediction/blob/master/RNNResults.png)
+
+# RNN Val Loss - Preliminary (ha, definitely suggests that I need more data; in order to prevent overfitting)
+![Validation Loss]()
